@@ -22,6 +22,11 @@ It flips between English and French cards at intervals and lets users mark words
 
 ---
 
+▶️ How to Run
+Run the script with Python 3
+
+---
+
 ## 📌 Acknowledgement
 Developed as part of my **100 Days of Python Bootcamp** learning journey.  
 This project helped me strengthen my Tkinter GUI and data-handling skills.
